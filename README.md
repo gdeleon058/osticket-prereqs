@@ -39,7 +39,7 @@ I install something for the osticket.
 <br />
 
 <p>
-<![Lab 3 Program run](https://github.com/gdeleon058/osticket-prereqs/assets/143835537/a8d891e9-c015-4e7d-8062-78e365f8adca)
+<"C:\Users\johnj\OneDrive\Pictures\Lab Images\Lab 3\Lab 3 Program run.png"
 >
 </p>
 <p>
