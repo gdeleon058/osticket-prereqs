@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<![Lab 3 Program run](https://github.com/gdeleon058/osticket-prereqs/assets/143835537/ce5a7e55-995e-4a5d-a9ec-091737ddb45b)>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 I install something for the osticket.
@@ -39,8 +39,7 @@ I install something for the osticket.
 <br />
 
 <p>
-<"C:\Users\johnj\OneDrive\Pictures\Lab Images\Lab 3\Lab 3 Program run.png"
->
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
