@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitiza![Lab 3 PHP manager](https://github.com/gdeleon058/osticket-prereqs/assets/143835537/7b495d51-5f0a-429d-81a8-44ff6e0fb78e)
+<[Lab 3 PHP manager](https://github.com/gdeleon058/osticket-prereqs/assets/143835537/7b495d51-5f0a-429d-81a8-44ff6e0fb78e)
 tion Steps"/>
 
 </p>
