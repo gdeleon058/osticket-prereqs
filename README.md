@@ -42,16 +42,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-I had to access programs and enable Internet Information Services to enable the entire process of downloading all the prerequisites to enable osTicket to run smoothly. I made sure that CGI was clicked to be enabled for the installation process. Once everything was enable in the IIS, I clicked ok for it to successfully apply the changes to the remote desktop.
+I had to access programs and enable Internet Information Services to enable the entire process of downloading all the prerequisites to enable osTicket to run smoothly. I made sure that CGI was clicked to be enabled for the installation process. Once everything was enable in the IIS, I clicked ok for it to successfully apply the changes to the remote desktop.  
 </p>
 <br />
 
 <p>
-<img src= "https://github.com/gdeleon058/osticket-prereqs/assets/143835537/9f56e100-ebbc-4c1b-8189-4f30efcd220b"
-/>
+<img src= "https://github.com/gdeleon058/osticket-prereqs/assets/143835537/30ec74ee-744a-4f5d-a3ba-0bcb143b8dba"/>
+ I had to type 127.0.0.1 to route the browser tab to the internet information services and ensure that it was successfully enabled.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I went ahead and installed PHP manager on the
 </p>
 <br />
 
