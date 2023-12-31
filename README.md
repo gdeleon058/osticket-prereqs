@@ -107,11 +107,11 @@ PHP requires the Visual C++ redistribution, so I downloaded the file and accepte
 
 
 <p>
-<img src="[image](https://github.com/gdeleon058/osticket-prereqs/assets/143835537/b03b1fd2-0a24-481d-be77-9d8e6a476a12)
+<img src="https://github.com/gdeleon058/osticket-prereqs/assets/143835537/b03b1fd2-0a24-481d-be77-9d8e6a476a12
 "/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I downloaded the MYSQL file, enabled typical install, and then made some agreements. I then had to create the root password to access the SQL database later on when I finish downloading the prerequisites for osTicket.
 </p>
 <br />
 
