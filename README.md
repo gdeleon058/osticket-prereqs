@@ -72,15 +72,17 @@ I needed to download the PHP manager to initiate the osticket system. This is th
 <img src="https://github.com/gdeleon058/osticket-prereqs/assets/143835537/dc5ffc4f-b74a-4737-9fb8-97b556b1cbae"/>
 </p>
 <p>
-I needed to download the rewrite file since it was needed as there is a specific configuration in the osticket files that help visits URL sites and does backend work for the Osticket to properly work.
+I needed to download the rewrite file since it was needed as there is a specific configuration in the osTicket files that helps in visiting URL sites and does backend work for the osTicket to properly work.It is one of the requirements for the osTicket to work properly.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/gdeleon058/osticket-prereqs/assets/143835537/259c9c63-2bb5-4c3e-8099-17571c82675b"/>
+
+ 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I made a directory folder to make preparations to upload a zipfile of PHP code to be read and write. This was used to enable the PHP manager to run properly.
 </p>
 <br />
 
