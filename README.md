@@ -59,21 +59,20 @@ I had to access programs and enable Internet Information Services to enable the 
 <br />
 
 <p>
-<img src= "https://github.com/gdeleon058/osticket-prereqs/assets/143835537/c3c3194d-a913-46ff-995f-6380a7586c5f"
-/>
+<img src= "https://github.com/gdeleon058/osticket-prereqs/assets/143835537/c3c3194d-a913-46ff-995f-6380a7586c5f"/>
 
  
 </p>
 <p>
-I needed to download the PHP manager to initiate the osticket system. This is the most crucial tool to configure and run the osTicket softwar to ensure a smooth and efficient operation.
+I needed to download the PHP manager to initiate the osticket system. This is the most crucial tool to configure and run the osTicket software to ensure a smooth and efficient operation.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/gdeleon058/osticket-prereqs/assets/143835537/dc5ffc4f-b74a-4737-9fb8-97b556b1cbae"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I needed to download the rewrite file since it was needed as there is a specific configuration in the osticket files that help visits URL sites and does backend work for the Osticket to properly work.
 </p>
 <br />
 
