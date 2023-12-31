@@ -52,7 +52,8 @@ I had to access programs and enable Internet Information Services to enable the 
  I had to type 127.0.0.1 to route the browser tab to the internet information services and ensure that it was successfully enabled.
 </p>
 <p>
-I went ahead and installed PHP manager on the
+ I had to type 127.0.0.1 to route the browser tab to the internet information services and ensure that it was successfully enabled.
+
 </p>
 <br />
 
