@@ -87,10 +87,12 @@ I made a directory folder to make preparations to upload a zipfile of PHP code t
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/gdeleon058/osticket-prereqs/assets/143835537/2b71a0d1-0f3e-4092-8f1d-32de8503b147"
+/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I downloaded the zip file for PHP and uploaded it to the PHP directory folder to begin the extraction.
 </p>
 <br />
 
