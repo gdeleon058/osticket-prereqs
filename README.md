@@ -48,6 +48,7 @@ I had to access programs and enable Internet Information Services to enable the 
 
 <p>
 <img src= "https://github.com/gdeleon058/osticket-prereqs/assets/143835537/30ec74ee-744a-4f5d-a3ba-0bcb143b8dba"/>
+
  I had to type 127.0.0.1 to route the browser tab to the internet information services and ensure that it was successfully enabled.
 </p>
 <p>
