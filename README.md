@@ -31,6 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - osTicket file
 - Heidi SQL
 - inethub
+- osTicket
 
 <h2>Installation Steps</h2>
 
